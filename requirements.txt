@@ -1,1 +1,8 @@
-
+fastapi
+uvicorn
+telethon
+cryptography
+psycopg[binary]
+httpx
+google-genai
+aiogram
